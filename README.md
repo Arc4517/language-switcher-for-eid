@@ -12,4 +12,4 @@ The default keybinds are `X` and `Numpad /`. Both toggle the language in the sam
 
 ## Installation
 
-Copy the `lang_switcher_for_eid` folder into your Isaac Mods folder at `...\steamapps\common\The Binding of Isaac Rebirth\mods`
+[Download](https://github.com/Arc4517/language-switcher-for-eid/releases/download/v1.0.0/lang_switcher_for_eid.zip) the zip and then copy the `lang_switcher_for_eid` folder into your Isaac Mods folder at `...\steamapps\common\The Binding of Isaac Rebirth\mods`
